@@ -14,7 +14,7 @@
 
 <br>
 
- 𓆩⚜𓆪  En esta sección encontrarás información sobre Virtual Hosts (vHosts) y las vulnerabilidades que pueden ocultar dentro de un programa de Bug Bounty. Aprenderás a identificar aplicaciones, paneles, APIs y servicios no documentados mediante la manipulación del encabezado Host y el análisis de las respuestas del servidor. Una correcta enumeración de vHosts permite ampliar la superficie de ataque y descubrir activos ocultos donde pueden existir vulnerabilidades como IDOR, SSRF, RCE, exposición de información, fallos de autenticación y configuraciones inseguras.<br><br>
+ 𓆩⚜𓆪 IP Origin reúne técnicas y metodologías para identificar la IP de origen de objetivos protegidos por CDN o WAF durante la fase de reconocimiento en Bug Bounty y pentesting.<br><br>
 
 ✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
