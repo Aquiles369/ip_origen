@@ -34,13 +34,27 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás informes reales sobre Ip origen y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
+**✦ En esta sección encontrarás 15 informes reales sobre Ip origen y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
 <br><br>
 
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://freedium-mirror.cfd/https://medium.com/@melodicbook/web-services-soap-based-attack-vectors-a3a2672425ed
+https://medium.com/@vedgeta2/how-a-pdf-file-can-expose-your-applications-real-ip-even-with-cdn-and-waf-754f4ccd6993
+https://freedium-mirror.cfd/https://infosecwriteups.com/what-is-waf-secret-techniques-to-bypass-it-2a4de4768131
+https://0xbartita.medium.com/bypass-waf-by-a-simple-trick-gained-1000-bounty-cfa0fa63779e
+https://freedium-mirror.cfd/http://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7
+https://infosecwriteups.com/how-i-found-multiple-origin-ips-of-indian-govt-and-acknowledged-by-cert-in-6e044eb02c74
+https://medium.com/@kashyapherry147/origin-ip-to-account-takeover-62d7a54abebf
+https://medium.com/@yuvrajbadgoti/finding-the-real-origin-ips-hiding-behind-cloudflare-or-tor-d129a231b47e
+https://sudohunt.medium.com/cloudflare-bypass-via-exposed-origin-ip-the-power-of-shodan-recon-fb7a8cef8ce6
+https://infosecwriteups.com/origin-ip-found-d-dos-waf-cloudflare-protection-bypassed-41fc280ccf8f
+https://medium.com/@vaishalinagori112/cloudflare-bypass-via-real-ip-leading-to-remote-code-execution-rce-7076015085df
+https://kirairaki.medium.com/recon-to-rce-b2d3d3b48182
+https://khoof.medium.com/how-i-used-shodan-to-discover-3-easy-bugs-on-vdp-program-1ddd8b291320
+https://freedium-mirror.cfd/https://bevijaygupta.medium.com/bypass-firewall-by-finding-origin-ip-132cf675c0c8
+https://medium.com/@yaminni/how-attackers-find-ip-addresses-behind-the-cloud-7454943fd66b
+https://mux0xx.medium.com/how-finding-origin-ip-got-me-an-ato-bfc8c0db16c6
 ```
 <br>
 
